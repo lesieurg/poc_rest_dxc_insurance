@@ -1,7 +1,6 @@
 # POC API REST DXC Insurance
-How to run the code :
 
-## How to run the code :How to run the code
+## How to run the code :
 
 ```
 npm start
