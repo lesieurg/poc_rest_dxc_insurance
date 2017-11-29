@@ -4,7 +4,7 @@
 
 ```
 npm start
-start server.js
+node server.js
 ```
 
 
